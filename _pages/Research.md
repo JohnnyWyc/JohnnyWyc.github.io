@@ -1,3 +1,10 @@
+
+title: "Research"
+layout: single
+permalink: /research/
+author_profile: true
+
+
 ## Research Experience
 
 ### Out-of-Distribution Detection via Self-Supervised Geometry Learning
