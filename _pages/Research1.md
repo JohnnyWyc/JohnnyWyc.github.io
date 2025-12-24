@@ -7,15 +7,16 @@ author_profile: false
 
 
 
-
 <!-- ===================== Project 1 ===================== -->
 <div style="display:flex; gap:1.5em; align-items:flex-start; margin-bottom:2.2em;">
 
   <!-- Left: Figure -->
   <div style="flex:0 0 32%;">
     <!-- TODO: replace with your real figure -->
-    <img src="/images/Research/Black.png" alt="OOD Detection via Self-Supervised Geometry Learning"
-         style="width:100%; border-radius:8px;">
+    <img src="{{ site.baseurl }}/images/Research/Black.png"
+     alt="OOD Detection via Self-Supervised Geometry Learning"
+     style="width:100%; border-radius:8px;">
+
   </div>
 
   <!-- Right: Text -->
@@ -126,8 +127,9 @@ author_profile: false
   <!-- Left: Figure -->
   <div style="flex:0 0 32%;">
     <!-- TODO: replace with your real figure -->
-    <img src="/images/Research/Black.png" alt="Modular Cross-lingual Speech-to-Text Framework"
-         style="width:100%; border-radius:8px;">
+    <img src="{{ site.baseurl }}/images/Research/Black.png"
+     alt="Modular Cross-lingual Speech-to-Text Framework"
+     style="width:100%; border-radius:8px;">
   </div>
 
   <!-- Right: Text -->
