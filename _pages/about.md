@@ -36,18 +36,79 @@ I am actively seeking PhD opportunities in machine learning, please feel free to
 
 ## Education
 
-- **Duke University, Pratt School of Engineering** — M.Eng. in Electrical and Computer Engineering, **2023 – 2025** · Durham, NC
+<div style="display:flex; justify-content:space-between;">
+  <div>
+    <strong>Duke University, Pratt School of Engineering</strong><br>
+    <em>M.Eng. in Electrical and Computer Engineering</em>
+  </div>
+  <div style="text-align:right;">
+    Durham, NC<br>
+    2023 – 2025
+  </div>
+</div>
 
-- **Beijing Forestry University (BJFU)** — B.Eng. in Computer Science and Technology, **2017 – 2021** · Beijing, China  
+<div style="display:flex; justify-content:space-between; margin-top:0.8em;">
+  <div>
+    <strong>Beijing Forestry University (BJFU)</strong><br>
+    <em>B.Eng. in Computer Science and Technology</em>
+  </div>
+  <div style="text-align:right;">
+    Beijing, China<br>
+    2017 – 2021
+  </div>
+</div>
 
 
 
-## Awards & Competition
+## Competition
 
 - **Kaggle — Inverse Language Model from LLM Prompt Recovery**,  **Golden Award**  🥇
 - **Kaggle — Causal Model of Writing Behavior and Quality**,  **Silver Award**  🥈
 
 
+## Work Experience
+
+- **New York University** Research Associate  Advisor: Prof. [Bruno Abrahao](https://scholar.google.com/citations?hl=en&user=x34kIOIAAAAJ&view_op=list_works&sortby=pubdate)  05.2025-Present
+- **Jinan University** Research Assistant Advisor: Prof. [Zhao-Rong Lai](https://scholar.google.com.hk/citations?user=psPB6TsAAAAJ&hl=en&oi=ao)    05.2024-03.2025
+- **National University of Singapore** Research Assistant Advisor: [Chenghao Cai](https://www.researchgate.net/profile/Cheng-Hao-Cai)  06.2020-05.2022
+
+## Work Experience
+
+<div style="display:flex; justify-content:space-between;">
+  <div>
+    <strong>New York University</strong><br>
+    <em>Research Associate</em><br>
+    Advisor: Prof. <a href="https://scholar.google.com/citations?hl=en&user=x34kIOIAAAAJ&view_op=list_works&sortby=pubdate">Bruno Abrahao</a>
+  </div>
+  <div style="text-align:right;">
+    New York, USA<br>
+    05.2025 – Present
+  </div>
+</div>
+
+<div style="display:flex; justify-content:space-between; margin-top:0.8em;">
+  <div>
+    <strong>Jinan University</strong><br>
+    <em>Research Assistant</em><br>
+    Advisor: Prof. <a href="https://scholar.google.com.hk/citations?user=psPB6TsAAAAJ&hl=en&oi=ao">Zhao-Rong Lai</a>
+  </div>
+  <div style="text-align:right;">
+    Remote<br>
+    05.2024 – 03.2025
+  </div>
+</div>
+
+<div style="display:flex; justify-content:space-between; margin-top:0.8em;">
+  <div>
+    <strong>National University of Singapore</strong><br>
+    <em>Research Assistant</em><br>
+    Advisor: <a href="https://www.researchgate.net/profile/Cheng-Hao-Cai">Chenghao Cai</a>
+  </div>
+  <div style="text-align:right;">
+    Singapore / Remote<br>
+    06.2020 – 05.2022
+  </div>
+</div>
 
 
 ## Contact
