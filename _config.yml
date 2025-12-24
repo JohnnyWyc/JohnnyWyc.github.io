@@ -21,7 +21,7 @@ repository: "JohnnyWyc/JohnnyWyc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "wycVISA.jpg"
+  avatar           : "github.jpg"
   name             : "Yuanchao Wang"
   pronouns         : # example: "she/her"  
   bio              : "个人网页啊啦啦啦啦啦"
