@@ -11,7 +11,13 @@ redirect_from:
 
 ## Bio
 
-I am an M.Eng. student in Electrical and Computer Engineering at Duke University (expected May 2025). My research interests include **out-of-distribution (OOD) detection and generalization**, **distributionally robust learning**, and **machine learning for decision-making and optimization**. I have worked with Prof. Bruno Abrahao (NYU) on self-supervised OOD detection and with Prof. Zhao-Rong Lai (Jinan University) on invariant learning and DRO-style robust training objectives.
+I am currently a Research Associate at New York University, working under the supervision of Prof. Bruno Abrahao. I received my Master’s degree from the Pratt School of Engineering at Duke University in 2025.
+
+My research interests focus on the interpretability and trust boundaries of deep learning models, with particular emphasis on model robustness, reliability, and safety under distributional shift. 
+
+Recently, my work explores the security boundaries of deep learning models from two complementary perspectives: out-of-distribution (OOD) detection and out-of-distribution generalization. I am interested in understanding how and why deep neural networks fail, and in developing principled methods that improve their reliability in high-stakes and open-world settings.
+
+I am actively seeking PhD opportunities in machine learning, please feel free to contact me. 
 
 
 
