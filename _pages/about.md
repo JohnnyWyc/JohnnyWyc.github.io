@@ -11,11 +11,11 @@ redirect_from:
 
 ## Bio
 
-I am currently a Research Associate at New York University, working under the supervision of Prof. Bruno Abrahao. I received my Master’s degree from the Pratt School of Engineering at Duke University in 2025.
+I am currently a Research Associate at New York University, working under the supervision of Prof. [Bruno Abrahao](https://scholar.google.com/citations?user=x34kIOIAAAAJ&hl=en). I received my Master’s degree from the Pratt School of Engineering at Duke University in 2025.
 
 My research interests focus on the interpretability and trust boundaries of deep learning models, with particular emphasis on model robustness, reliability, and safety under distributional shift. 
 
-Recently, my work explores the security boundaries of deep learning models from two complementary perspectives: out-of-distribution (OOD) detection and out-of-distribution generalization. I am interested in understanding how and why deep neural networks fail, and in developing principled methods that improve their reliability in high-stakes and open-world settings.
+Recently, my work explores the security boundaries of deep learning models from two complementary perspectives: Out-of-distribution (OOD) detection and Out-of-distribution generalization. I am interested in understanding how and why deep neural networks fail, and in developing principled methods that improve their reliability in high-stakes and open-world settings.
 
 I am actively seeking PhD opportunities in machine learning, please feel free to contact me. 
 
@@ -23,9 +23,9 @@ I am actively seeking PhD opportunities in machine learning, please feel free to
 
 ## Publications
 
-1. **Yuanchao Wang**, T. Qin, E. Valle, B. Abrahao. *BootOOD: Self-Supervised Out-of-Distribution Detection via Synthetic Sample Exposure under Neural Collapse.* **CVPR 2026** (under review). [[Paper]](https://arxiv.org/pdf/2511.13539)
+1. **Yuanchao Wang**, T. Qin, E. Valle, B. Abrahao. *BootOOD: Self-Supervised Out-of-Distribution Detection via Synthetic Sample Exposure under Neural Collapse.* arXiv preprint, 2025. [[Paper]](https://arxiv.org/pdf/2511.13539)
 
-2. **Yuanchao Wang**, Z. Lai. *DRO.* arXiv preprint, 2021. [[Paper]](https://arxiv.org/pdf/2110.03879)
+2. **Yuanchao Wang**, Z. Lai. *DRO.* arXiv preprint, 2025. [[Paper]](https://arxiv.org/pdf/2110.03879)
 
 3. **Yuanchao Wang**, Z. Lai, T. Zhong. *Out-of-distribution Generalization for Total Variation Based Invariant Risk Minimization.* **ICLR 2025**. [[Paper]](https://iclr.cc/virtual/2025/poster/29073)
 
@@ -44,8 +44,8 @@ I am actively seeking PhD opportunities in machine learning, please feel free to
 
 ## Awards & Competition
 
-- **Kaggle — Inverse Language Model from LLM Prompt Recovery**, Core Member, **Golden Award** (Feb 2024 – Apr 2024)
-- **Kaggle — Causal Model of Writing Behavior and Quality**, Core Member, **Silver Award** (Oct 2023 – Jan 2024)
+- **Kaggle — Inverse Language Model from LLM Prompt Recovery**, Core Member, **Golden Award** (Feb 2024 – Apr 2024) 🥇
+- **Kaggle — Causal Model of Writing Behavior and Quality**, Core Member, **Silver Award** (Oct 2023 – Jan 2024) 🥈
 
 
 
