@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale: "zh-CN"
+locale: "DEFAULT_EN"
 site_theme: "default"     # 可选 "air" "sunrise" "mint" "dirt" "contrast"
 title: "Yuanchao Wang"
 name: "Yuanchao Wang"
