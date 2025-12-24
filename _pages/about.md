@@ -91,7 +91,7 @@ I am actively seeking PhD opportunities in machine learning, please feel free to
   <div>
     <strong>National University of Singapore</strong><br>
     <em>Research Assistant</em><br>
-    Advisor: <a href="https://www.researchgate.net/profile/Cheng-Hao-Cai">Chenghao Cai</a>
+    Advisor: Prof. <a href="https://www.researchgate.net/profile/Cheng-Hao-Cai">Chenghao Cai</a>
   </div>
   <div style="text-align:right;">
     06.2020 – 05.2022
