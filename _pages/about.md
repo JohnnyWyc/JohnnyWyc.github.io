@@ -99,8 +99,3 @@ I am actively seeking PhD opportunities in machine learning, please feel free to
 </div>
 
 
-
-## Contact
-
-Email: [yw6570@nyu.edu](mailto:yw6570@nyu.edu)  
-LinkedIn: [Yuanchao (Johnny) Wang](https://www.linkedin.com/in/yuanchaowangjohnny/)
