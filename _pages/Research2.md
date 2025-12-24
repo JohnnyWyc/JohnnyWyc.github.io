@@ -19,7 +19,7 @@ I study this problem from two complementary perspectives:
 
 Together, these two directions aim to characterize the safety and reliability limits of modern deep learning systems in open-world settings.
 
----
+
 
 ## Research Line I: Out-of-Distribution Detection  
 **When should a model abstain?**
@@ -31,7 +31,7 @@ Related: [[arXiv]](https://arxiv.org/abs/2511.13539)
 - **Method.** Proposed a self-supervised OOD training framework guided by Neural Collapse, combining geometry-aware regularization with feature-space pseudo-OOD generation.
 - **Contribution.** Enabled effective OOD detection without external outliers while explicitly shaping feature norm and angular geometry, achieving consistent improvements over strong post-hoc and outlier-free baselines.
 
----
+
 
 ## Research Line II: Out-of-Distribution Generalization  
 **When can a model generalize reliably?**
@@ -50,7 +50,7 @@ Related: [[ICLR 2025 Poster]](https://iclr.cc/virtual/2025/poster/29073)
 - **Method.** Introduced an autonomous Total Variation penalty optimized through a minimax adversarial learning scheme.
 - **Contribution.** Improved both average and worst-case OOD generalization over IRM-TV baselines on multiple simulated and real-world datasets.
 
----
+
 
 ## Early Research Projects
 
