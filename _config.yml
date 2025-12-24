@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale: "zh-CN"
 site_theme: "default"     # 可选 "air" "sunrise" "mint" "dirt" "contrast"
-title: "Yuanchao Wang - Academic Page"
+title: "Yuanchao Wang"
 name: "Yuanchao Wang"
-description: "科研主页 / 履历展示"
+description: ""
 url: "https://JohnnyWyc.github.io"
 baseurl: ""               # 留空以用根域名
 repository: "JohnnyWyc/JohnnyWyc.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "github.jpg"
   name             : "Yuanchao Wang"
   pronouns         : # example: "she/her"  
-  bio              : "个人网页啊啦啦啦啦啦"
+  bio              : "Research Associate"
   location         : 
   employer         : "New York University"
   uri              : # URL
