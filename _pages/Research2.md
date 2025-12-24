@@ -6,20 +6,6 @@ author_profile: true
 ---
 
 
-## Research Overview
-
-My research focuses on understanding the **trust boundaries of deep learning models under distribution shift**.
-I study this problem from two complementary perspectives:
-
-- **When should a model abstain from prediction?**  
-  (Out-of-Distribution Detection)
-
-- **When can a model generalize reliably beyond the training distribution?**  
-  (Out-of-Distribution Generalization)
-
-Together, these two directions aim to characterize the safety and reliability limits of modern deep learning systems in open-world settings.
-
-
 
 ## Research Line I: Out-of-Distribution Detection  
 **When should a model abstain?**
