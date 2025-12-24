@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 
-
-## Bio
-
 I am currently a Research Associate at New York University, working under the supervision of Prof. [Bruno Abrahao](https://scholar.google.com/citations?user=x34kIOIAAAAJ&hl=en). I received my Master’s degree from the Pratt School of Engineering at Duke University in 2025.
 
 My research interests focus on the interpretability and trust boundaries of deep learning models, with particular emphasis on model robustness, reliability, and safety under distributional shift. 
@@ -62,15 +59,9 @@ I am actively seeking PhD opportunities in machine learning, please feel free to
 
 ## Competition
 
-- **Kaggle — Inverse Language Model from LLM Prompt Recovery**,  **Golden Award**  🥇
-- **Kaggle — Causal Model of Writing Behavior and Quality**,  **Silver Award**  🥈
+- **Kaggle — Inverse Language Model from LLM Prompt Recovery**,  _Golden Award_  🥇
+- **Kaggle — Causal Model of Writing Behavior and Quality**,  _Silver Award_  🥈
 
-
-## Work Experience
-
-- **New York University** Research Associate  Advisor: Prof. [Bruno Abrahao](https://scholar.google.com/citations?hl=en&user=x34kIOIAAAAJ&view_op=list_works&sortby=pubdate)  05.2025-Present
-- **Jinan University** Research Assistant Advisor: Prof. [Zhao-Rong Lai](https://scholar.google.com.hk/citations?user=psPB6TsAAAAJ&hl=en&oi=ao)    05.2024-03.2025
-- **National University of Singapore** Research Assistant Advisor: [Chenghao Cai](https://www.researchgate.net/profile/Cheng-Hao-Cai)  06.2020-05.2022
 
 ## Work Experience
 
@@ -81,7 +72,6 @@ I am actively seeking PhD opportunities in machine learning, please feel free to
     Advisor: Prof. <a href="https://scholar.google.com/citations?hl=en&user=x34kIOIAAAAJ&view_op=list_works&sortby=pubdate">Bruno Abrahao</a>
   </div>
   <div style="text-align:right;">
-    New York, USA<br>
     05.2025 – Present
   </div>
 </div>
@@ -93,8 +83,7 @@ I am actively seeking PhD opportunities in machine learning, please feel free to
     Advisor: Prof. <a href="https://scholar.google.com.hk/citations?user=psPB6TsAAAAJ&hl=en&oi=ao">Zhao-Rong Lai</a>
   </div>
   <div style="text-align:right;">
-    Remote<br>
-    05.2024 – 03.2025
+    07.2023 – 04.2025
   </div>
 </div>
 
@@ -105,10 +94,10 @@ I am actively seeking PhD opportunities in machine learning, please feel free to
     Advisor: <a href="https://www.researchgate.net/profile/Cheng-Hao-Cai">Chenghao Cai</a>
   </div>
   <div style="text-align:right;">
-    Singapore / Remote<br>
     06.2020 – 05.2022
   </div>
 </div>
+
 
 
 ## Contact
