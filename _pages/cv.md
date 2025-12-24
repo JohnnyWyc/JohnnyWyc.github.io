@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Research Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## Research Experience
 
 ### Out-of-Distribution Detection via Self-Supervised Geometry Learning
 **New York University — Research Associate (Remote)**  
