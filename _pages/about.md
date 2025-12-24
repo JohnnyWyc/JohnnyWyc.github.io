@@ -36,16 +36,16 @@ I am actively seeking PhD opportunities in machine learning, please feel free to
 
 ## Education
 
-- **Duke University, Pratt School of Engineering** — M.Eng. in Electrical and Computer Engineering, **Aug 2023 – May 2025** · Durham, NC
+- **Duke University, Pratt School of Engineering** — M.Eng. in Electrical and Computer Engineering, **2023 – 2025** · Durham, NC
 
-- **Beijing Forestry University (BJFU)** — B.Eng. in Computer Science and Technology, **Sep 2017 – Jun 2021** · Beijing, China  
+- **Beijing Forestry University (BJFU)** — B.Eng. in Computer Science and Technology, **2017 – 2021** · Beijing, China  
 
 
 
 ## Awards & Competition
 
-- **Kaggle — Inverse Language Model from LLM Prompt Recovery**, Core Member, **Golden Award** (Feb 2024 – Apr 2024) 🥇
-- **Kaggle — Causal Model of Writing Behavior and Quality**, Core Member, **Silver Award** (Oct 2023 – Jan 2024) 🥈
+- **Kaggle — Inverse Language Model from LLM Prompt Recovery**,  **Golden Award**  🥇
+- **Kaggle — Causal Model of Writing Behavior and Quality**,  **Silver Award**  🥈
 
 
 
