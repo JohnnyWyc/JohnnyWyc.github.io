@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Research Line I: Out-of-Distribution Detection  
-**When should a model abstain?**
+
 
 <div style="display:flex; gap:1.5em; align-items:flex-start; margin-bottom:2.2em;">
 
@@ -31,7 +31,7 @@ author_profile: true
 ---
 
 ## Research Line II: Out-of-Distribution Generalization  
-**When can a model generalize reliably?**
+
 
 <div style="display:flex; gap:1.5em; align-items:flex-start; margin-bottom:2.2em;">
 
@@ -89,8 +89,9 @@ author_profile: true
     <h3 style="margin-top:0;">Learning Attention Behaviors with Decision Trees</h3>
     <p>Related: <a href="https://arxiv.org/pdf/2110.03879">arXiv</a></p>
     <ul>
-      <li><strong>Focus.</strong> Interpreting temporal dynamics of attention mechanisms in end-to-end speech recognition models.</li>
-      <li><strong>Contribution.</strong> Provided an early, model-agnostic analysis of attention behavior using decision trees, revealing strong temporal dependence and high predictability of attention states.</li>
+      <li><strong>Problem.</strong> Attention mechanisms in end-to-end speech recognition are difficult to interpret and analyze temporally.</li>
+      <li><strong>Method.</strong> Modeled attention dynamics using decision trees constructed from attention state transitions.</li>
+      <li><strong>Contribution.</strong> Revealed strong temporal dependence in attention evolution and demonstrated that attention states are highly predictable (&gt;80% accuracy).</li>>
     </ul>
   </div>
 
