@@ -16,9 +16,9 @@ author_profile: true
     <h2>Out-of-Distribution Detection via Self-Supervised Geometry Learning</h2>
     <p>Related: <a href="https://arxiv.org/abs/2511.13539">arXiv</a></p>
     <ul>
-      <li><strong>Problem.</strong> ...</li>
-      <li><strong>Method.</strong> ...</li>
-      <li><strong>Contribution.</strong> ...</li>
+      <li><strong>Problem.</strong> Existing OOD detection methods either rely on external outlier data or fail to provide explicit geometric separation between in-distribution and OOD samples.</li>
+      <li><strong>Method.</strong> Proposed a self-supervised OOD training framework guided by Neural Collapse, combining geometry-aware regularization with feature-space pseudo-OOD generation via class-wise mixup.</li>
+      <li><strong>Contribution.</strong> Enabled effective OOD detection without external outliers while explicitly shaping feature norm and angular geometry.</li>
     </ul>
   </div>
 </div>
