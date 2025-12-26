@@ -12,7 +12,7 @@ I am currently a Research Associate at New York University, working under the su
 
 My research interests focus on the interpretability and trust boundaries of deep learning models, with particular emphasis on robustness, reliability, and safety under distributional shift. I am interested in understanding how and why deep neural networks fail, and in developing principled methods that improve their reliability in high-stakes and open-world settings.
 
-Recently, my work explores these trust boundaries from two complementary perspectives: Out-of-distribution detection and Out-of-distribution generalization.I am interested in pursuing further research on trustworthy and robust machine learning in a PhD program.
+Recently, my work explores these trust boundaries from two complementary perspectives: Out-of-distribution detection and Out-of-distribution generalization. I am interested in pursuing further research on trustworthy and robust machine learning in a PhD program.
 
 
 
