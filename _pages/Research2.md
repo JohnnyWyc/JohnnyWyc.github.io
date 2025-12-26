@@ -1,54 +1,56 @@
 ---
 title: "Research Experience"
 layout: single
-permalink: /research2/
+permalink: /research/
 author_profile: true
 ---
 
-## Research Line I: Out-of-Distribution Detection  
-
+## Research Line I: Out-of-Distribution Detection
 
 <div style="display:flex; gap:1.5em; align-items:flex-start; margin-bottom:2.2em;">
 
   <div style="flex:0 0 32%;">
     <img src="/images/Research/BootOOD.jpg"
-         alt="OOD Detection via Self-Supervised Geometry Learning"
+         alt="BootOOD"
          style="width:100%; border-radius:8px;">
   </div>
 
   <div style="flex:1;">
-    <h3 style="margin-top:0;">Out-of-Distribution Detection via Self-Supervised Geometry Learning</h3>
-    <p>Related: <a href="https://arxiv.org/abs/2511.13539">arXiv</a></p>
-    <ul>
-      <li><strong>Problem.</strong> Existing OOD detection methods often rely on external outlier data or lack explicit geometric separation between in-distribution and OOD samples.</li>
-      <li><strong>Method.</strong> Proposed a self-supervised OOD training framework guided by Neural Collapse, combining geometry-aware regularization with feature-space pseudo-OOD generation.</li>
-      <li><strong>Contribution.</strong> Enabled effective OOD detection without external outliers while explicitly shaping feature norm and angular geometry, achieving consistent improvements over strong post-hoc and outlier-free baselines.</li>
-    </ul>
+    <h3 style="margin-top:0;">
+      BootOOD: Self-Supervised Out-of-Distribution Detection via Synthetic Sample Exposure under Neural Collapse
+    </h3>
+    <p>
+      <a href="https://arxiv.org/abs/2511.13539">arXiv</a>
+    </p>
+    <p>
+      A self-supervised OOD detection framework that leverages Neural Collapse geometry to separate in-distribution and OOD samples without external outliers.
+    </p>
   </div>
 
 </div>
 
+---
 
-
-## Research Line II: Out-of-Distribution Generalization  
-
+## Research Line II: Out-of-Distribution Generalization
 
 <div style="display:flex; gap:1.5em; align-items:flex-start; margin-bottom:2.2em;">
 
   <div style="flex:0 0 32%;">
     <img src="/images/Research/2026.jpg"
-         alt="Distributionally Robust Invariant Learning"
+         alt="DRO"
          style="width:100%; border-radius:8px;">
   </div>
 
   <div style="flex:1;">
-    <h3 style="margin-top:0;">Distributionally Robust Invariant Learning for OOD Generalization</h3>
-    <p>Related: <a href="https://arxiv.org/abs/2511.13539">arXiv</a></p>
-    <ul>
-      <li><strong>Problem.</strong> Invariant learning methods mitigate correlation shift but remain vulnerable to diversity shift and support mismatch under severe OOD settings.</li>
-      <li><strong>Method.</strong> Unified invariant risk minimization with sample-level Distributionally Robust Optimization (DRO) via a learnable adversarial reweighting mechanism.</li>
-      <li><strong>Contribution.</strong> Formulated a primal–dual–adversarial training objective that improves worst-case generalization across both classification and regression benchmarks.</li>
-    </ul>
+    <h3 style="margin-top:0;">
+      DRO
+    </h3>
+    <p>
+      <a href="https://arxiv.org/abs/2511.13539">arXiv</a>
+    </p>
+    <p>
+      Integrates invariant learning with sample-level distributionally robust optimization to improve worst-case OOD generalization.
+    </p>
   </div>
 
 </div>
@@ -57,23 +59,25 @@ author_profile: true
 
   <div style="flex:0 0 32%;">
     <img src="/images/Research/2025.jpg"
-         alt="Invariant Risk Minimization under OOD"
+         alt="IRM-TV"
          style="width:100%; border-radius:8px;">
   </div>
 
   <div style="flex:1;">
-    <h3 style="margin-top:0;">Out-of-Distribution Generalization for Invariant Risk Minimization</h3>
-    <p>Related: <a href="https://iclr.cc/virtual/2025/poster/29073">ICLR 2025</a></p>
-    <ul>
-      <li><strong>Problem.</strong> Fixed regularization strength in IRM-based methods limits adaptability across heterogeneous environments.</li>
-      <li><strong>Method.</strong> Introduced an autonomous Total Variation penalty optimized through a minimax adversarial learning scheme.</li>
-      <li><strong>Contribution.</strong> Improved both average and worst-case OOD generalization over IRM-TV baselines on multiple simulated and real-world datasets.</li>
-    </ul>
+    <h3 style="margin-top:0;">
+      Out-of-Distribution Generalization for Total Variation Based Invariant Risk Minimization
+    </h3>
+    <p>
+      <a href="https://iclr.cc/virtual/2025/poster/29073">ICLR 2025</a>
+    </p>
+    <p>
+      Proposes an autonomous total-variation regularization scheme for improving IRM robustness under distribution shift.
+    </p>
   </div>
 
 </div>
 
-
+---
 
 ## Early Research Projects
 
@@ -81,18 +85,20 @@ author_profile: true
 
   <div style="flex:0 0 32%;">
     <img src="/images/Research/Tree.jpg"
-         alt="Learning Attention Behaviors with Decision Trees"
+         alt="Decision Tree Attention"
          style="width:100%; border-radius:8px;">
   </div>
 
   <div style="flex:1;">
-    <h3 style="margin-top:0;">Learning Attention Behaviors with Decision Trees</h3>
-    <p>Related: <a href="https://arxiv.org/pdf/2110.03879">arXiv</a></p>
-    <ul>
-      <li><strong>Problem.</strong> Attention mechanisms in end-to-end speech recognition are difficult to interpret and analyze temporally.</li>
-      <li><strong>Method.</strong> Modeled attention dynamics using decision trees constructed from attention state transitions.</li>
-      <li><strong>Contribution.</strong> Revealed strong temporal dependence in attention evolution and demonstrated that attention states are highly predictable (&gt;80% accuracy).</li>>
-    </ul>
+    <h3 style="margin-top:0;">
+      Explaining the Attention Mechanism of End-To-End Speech Recognition Using Decision Trees
+    </h3>
+    <p>
+      <a href="https://arxiv.org/pdf/2110.03879">arXiv</a>
+    </p>
+    <p>
+      An early interpretability study that analyzes attention dynamics in speech recognition models using decision trees.
+    </p>
   </div>
 
 </div>
