@@ -22,7 +22,7 @@ Recently, my work explores these trust boundaries from two complementary perspec
 
 2. **Yuanchao Wang**, Z. Lai. *DRO.* arXiv preprint, 2025. [[Paper]](https://arxiv.org/pdf/2110.03879)
 
-3. **Yuanchao Wang**, Z. Lai, T. Zhong. *Out-of-distribution Generalization for Total Variation Based Invariant Risk Minimization.* **ICLR 2025**. [[Paper]](https://iclr.cc/virtual/2025/poster/29073)
+3. **Yuanchao Wang**, Z. Lai, T. Zhong. *Out-of-distribution Generalization for Total Variation Based Invariant Risk Minimization.* **ICLR 2025**. [[Paper]](https://openreview.net/pdf?id=c4wEKJOjY3)
 
 4. **Yuanchao Wang**, W. Du, C. Cai, Y. Xu. *Explaining the Attention Mechanism of End-To-End Speech Recognition Using Decision Trees.* arXiv preprint, 2021. [[Paper]](https://arxiv.org/pdf/2110.03879)
 
