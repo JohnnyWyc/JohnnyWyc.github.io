@@ -1,12 +1,3 @@
 main:
-  - title: "Research1"
-    url: /research1/
-
-  - title: "Research2"
-    url: /research2/
-
-  - title: "Research3"
-    url: /research3/
-
-  - title: "Research4"
-    url: /research4/
+  - title: "Research"
+    url: /research/
