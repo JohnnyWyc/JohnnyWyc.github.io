@@ -63,7 +63,7 @@ author_profile: true
 
   <div style="flex:1;">
     <h3 style="margin-top:0;">Out-of-Distribution Generalization for Invariant Risk Minimization</h3>
-    <p>Related: <a href="https://iclr.cc/virtual/2025/poster/29073">ICLR 2025 Poster</a></p>
+    <p>Related: <a href="https://iclr.cc/virtual/2025/poster/29073">ICLR 2025</a></p>
     <ul>
       <li><strong>Problem.</strong> Fixed regularization strength in IRM-based methods limits adaptability across heterogeneous environments.</li>
       <li><strong>Method.</strong> Introduced an autonomous Total Variation penalty optimized through a minimax adversarial learning scheme.</li>
