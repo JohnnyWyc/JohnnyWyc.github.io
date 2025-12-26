@@ -45,7 +45,7 @@ author_profile: true
       DRO
     </h3>
     <p>
-      <a href="https://arxiv.org/abs/2511.13539">arXiv</a>
+      <a href="https://arxiv.org/abs/000000">arXiv</a>
     </p>
     <p>
       An adversarial sample-weighted invariant learning approach that unifies Total Variation regularization and DRO to handle both correlation and diversity shifts.
@@ -93,7 +93,7 @@ author_profile: true
       Explaining the Attention Mechanism of End-To-End Speech Recognition Using Decision Trees
     </h3>
     <p>
-      <a href="https://arxiv.org/pdf/2110.03879">arXiv</a>
+      <a href="https://arxiv.org/abs/2110.03879">arXiv</a>
     </p>
     <p>
       An interpretability study using decision trees that shows attention dynamics in speech recognition are dominated by short-term self-dependence.
