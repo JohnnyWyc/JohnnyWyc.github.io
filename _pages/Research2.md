@@ -23,7 +23,7 @@ author_profile: true
       <a href="https://arxiv.org/abs/2511.13539">arXiv</a>
     </p>
     <p>
-      A self-supervised OOD detection framework that leverages Neural Collapse geometry to separate in-distribution and OOD samples without external outliers.
+      A self-supervised OOD detector that exploits Neural Collapse and feature-norm geometry to handle semantically challenging OOD samples without outlier exposure.
     </p>
   </div>
 
@@ -49,7 +49,7 @@ author_profile: true
       <a href="https://arxiv.org/abs/2511.13539">arXiv</a>
     </p>
     <p>
-      Integrates invariant learning with sample-level distributionally robust optimization to improve worst-case OOD generalization.
+      An adversarial sample-weighted invariant learning approach that unifies Total Variation regularization and DRO to handle both correlation and diversity shifts.
     </p>
   </div>
 
@@ -71,7 +71,7 @@ author_profile: true
       <a href="https://iclr.cc/virtual/2025/poster/29073">ICLR 2025</a>
     </p>
     <p>
-      Proposes an autonomous total-variation regularization scheme for improving IRM robustness under distribution shift.
+      A primal–dual extension of IRM with an autonomous Total Variation penalty that improves out-of-distribution generalization.
     </p>
   </div>
 
@@ -97,7 +97,7 @@ author_profile: true
       <a href="https://arxiv.org/pdf/2110.03879">arXiv</a>
     </p>
     <p>
-      An early interpretability study that analyzes attention dynamics in speech recognition models using decision trees.
+      An interpretability study using decision trees that shows attention dynamics in speech recognition are dominated by short-term self-dependence.
     </p>
   </div>
 
