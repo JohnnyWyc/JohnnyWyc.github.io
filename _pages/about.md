@@ -89,7 +89,7 @@ Recently, my work explores these trust boundaries from two complementary perspec
   <div>
     <strong>National University of Singapore</strong><br>
     <em>Research Assistant</em><br>
-    Advisor: Prof. <a href="https://www.researchgate.net/profile/Cheng-Hao-Cai">Chenghao Cai</a>
+    Advisor: Prof. <a href="https://www.researchgate.net/profile/Cheng-Hao-Cai">Cheng-Hao Cai</a>
   </div>
   <div style="text-align:right;">
     06.2020 – 05.2022
