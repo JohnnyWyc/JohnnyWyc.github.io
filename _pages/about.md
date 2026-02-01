@@ -20,7 +20,7 @@ Recently, my work explores these trust boundaries from two complementary perspec
 
 1. **Yuanchao Wang**, T. Qin, E. Valle, B. Abrahao. *BootOOD: Self-Supervised Out-of-Distribution Detection via Synthetic Sample Exposure under Neural Collapse.* arXiv preprint, 2025. [[Paper]](https://arxiv.org/pdf/2511.13539)
 
-2. **Yuanchao Wang**, Z. Lai. *DRO.* arXiv preprint, 2025. [[Paper]](https://arxiv.org/pdf/2110.03879)
+2. **Yuanchao Wang**, Z. Lai. *Environment-Conditioned Tail Reweighting for Total-Variation Invariant Risk Minimization.* arXiv preprint, 2026. 
 
 3. **Yuanchao Wang**, Z. Lai, T. Zhong. *Out-of-distribution Generalization for Total Variation Based Invariant Risk Minimization.* **ICLR 2025**. [[Paper]](https://openreview.net/pdf?id=c4wEKJOjY3)
 
