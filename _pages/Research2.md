@@ -35,8 +35,8 @@ author_profile: true
 <div style="display:flex; gap:1.5em; align-items:flex-start; margin-bottom:2.2em;">
 
   <div style="flex:0 0 32%;">
-    <img src="/images/Research/ECTR.png"
-         alt="DRO"
+    <img src="/images/Research/ECTRjpg.jpg"
+         alt="ECTR"
          style="width:67%; border-radius:8px;">
   </div>
 
