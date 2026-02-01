@@ -35,7 +35,7 @@ author_profile: true
 <div style="display:flex; gap:1.5em; align-items:flex-start; margin-bottom:2.2em;">
 
   <div style="flex:0 0 32%;">
-    <img src="/images/Research/2026.jpg"
+    <img src="/images/Research/ECTR.png"
          alt="DRO"
          style="width:100%; border-radius:8px;">
   </div>
@@ -48,7 +48,7 @@ author_profile: true
       <a href="https://arxiv.org/abs/000000">arXiv</a>
     </p> -->
     <p>
-     An environment-conditioned, tail-reweighted TV-IRM framework that couples per-environment total-variation invariance with DRO-style sample reweighting to jointly address correlation and diversity shifts.
+     An environment-conditioned, tail-reweighted framework that couples per-environment total-variation invariance with DRO-style sample reweighting to jointly address correlation and diversity shifts.
     </p>
   </div>
 
