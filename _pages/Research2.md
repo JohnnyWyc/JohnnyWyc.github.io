@@ -37,7 +37,7 @@ author_profile: true
   <div style="flex:0 0 32%;">
     <img src="/images/Research/ECTR.png"
          alt="DRO"
-         style="width:100%; border-radius:8px;">
+         style="width:80%; border-radius:8px;">
   </div>
 
   <div style="flex:1;">
