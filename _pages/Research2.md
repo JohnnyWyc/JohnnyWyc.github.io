@@ -42,13 +42,13 @@ author_profile: true
 
   <div style="flex:1;">
     <h3 style="margin-top:0;">
-      DRO
+      Environment-Conditioned Tail Reweighting for Total-Variation Invariant Risk Minimization
     </h3>
-    <p>
+    <!-- <p>
       <a href="https://arxiv.org/abs/000000">arXiv</a>
-    </p>
+    </p> -->
     <p>
-      An adversarial sample-weighted invariant learning approach that unifies Total Variation regularization and DRO to handle both correlation and diversity shifts.
+     An environment-conditioned, tail-reweighted TV-IRM framework that couples per-environment total-variation invariance with DRO-style sample reweighting to jointly address correlation and diversity shifts.
     </p>
   </div>
 
