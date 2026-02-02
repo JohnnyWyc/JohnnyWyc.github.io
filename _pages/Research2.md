@@ -44,9 +44,9 @@ author_profile: true
     <h3 style="margin-top:0;">
       Environment-Conditioned Tail Reweighting for Total-Variation Invariant Risk Minimization
     </h3>
-    <!-- <p>
-      <a href="https://arxiv.org/abs/000000">arXiv</a>
-    </p> -->
+    <p>
+      <a href="https://arxiv.org/abs/2601.22944">arXiv</a>
+    </p>
     <p>
      An environment-conditioned, tail-reweighted framework that couples per-environment total-variation invariance with DRO-style sample reweighting to jointly address correlation and diversity shifts.
     </p>
