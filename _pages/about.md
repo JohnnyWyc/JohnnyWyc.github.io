@@ -16,7 +16,7 @@ Recently, my work explores these trust boundaries from two complementary perspec
 
 
 
-## Publications
+## Publications & Preprints
 
 1. **Yuanchao Wang**, T. Qin, E. Valle, B. Abrahao. *BootOOD: Self-Supervised Out-of-Distribution Detection via Synthetic Sample Exposure under Neural Collapse.* arXiv preprint, 2025. [[Paper]](https://arxiv.org/pdf/2511.13539)
 
