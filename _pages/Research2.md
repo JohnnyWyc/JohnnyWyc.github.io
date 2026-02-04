@@ -70,7 +70,7 @@ author_profile: true
       <a href="https://iclr.cc/virtual/2025/poster/29073">ICLR 2025</a>
     </p>
     <p>
-      A primal–dual extension of IRM with an autonomous Total Variation penalty that improves OOD generalization.
+      A primal–dual extension of Invariant Risk Minimization with an autonomous Total Variation penalty that improves OOD generalization.
     </p>
   </div>
 
