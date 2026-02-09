@@ -96,4 +96,14 @@ Recently, my work explores these trust boundaries from two complementary perspec
   </div>
 </div>
 
+<div style="display:flex; justify-content:space-between; margin-top:0.8em;">
+  <div>
+    <strong>Cloud Storage-based Electronic Commerce Sneaker Business</strong><br>
+    <em>Co-founder</em>
+  </div>
+  <div style="text-align:right;">
+    01.2022 – 11.2023
+  </div>
+</div>
+
 
