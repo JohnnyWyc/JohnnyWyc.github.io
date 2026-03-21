@@ -19,14 +19,10 @@ Recently, my work explores these trust boundaries from two complementary perspec
 ## Publications & Preprints
 
 1. **Yuanchao Wang**, Z. Lai, T. Zhong. *Out-of-distribution Generalization for Total Variation Based Invariant Risk Minimization.* **ICLR 2025**. [[Paper]](https://openreview.net/pdf?id=c4wEKJOjY3)
+2. **Yuanchao Wang**, T. Qin, E. Valle, B. Abrahao. *BootOOD: Self-Supervised Out-of-Distribution Detection via Synthetic Sample Exposure under Neural Collapse.* arXiv preprint, 2025. [[Paper]](https://arxiv.org/pdf/2511.13539)
+3. **Yuanchao Wang**, W. Du, C. Cai, Y. Xu. *Explaining the Attention Mechanism of End-To-End Speech Recognition Using Decision Trees.* arXiv preprint, 2021. [[Paper]](https://arxiv.org/pdf/2110.03879)
 
-2. **Yuanchao Wang**, Z. Lai. *Environment-Conditioned Tail Reweighting for Total-Variation Invariant Risk Minimization.* arXiv preprint, 2026. [[Paper]](https://arxiv.org/pdf/2601.22944) 
-
-3. **Yuanchao Wang**, T. Qin, E. Valle, B. Abrahao. *BootOOD: Self-Supervised Out-of-Distribution Detection via Synthetic Sample Exposure under Neural Collapse.* arXiv preprint, 2025. [[Paper]](https://arxiv.org/pdf/2511.13539)
-
-4. **Yuanchao Wang**, W. Du, C. Cai, Y. Xu. *Explaining the Attention Mechanism of End-To-End Speech Recognition Using Decision Trees.* arXiv preprint, 2021. [[Paper]](https://arxiv.org/pdf/2110.03879)
-
-
+<!--**Yuanchao Wang**, Z. Lai. *Environment-Conditioned Tail Reweighting for Total-Variation Invariant Risk Minimization.* arXiv preprint, 2026. [[Paper]](https://arxiv.org/pdf/2601.22944)-->
 
 
 ## Education
