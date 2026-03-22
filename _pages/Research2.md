@@ -34,6 +34,7 @@ author_profile: true
 
 
 
+<!--
 <div style="display:flex; gap:1.5em; align-items:flex-start; margin-bottom:2.2em;">
 
   <div style="flex:0 0 32%;">
@@ -56,6 +57,7 @@ author_profile: true
 
 </div>
 
+-->
 
 
 
