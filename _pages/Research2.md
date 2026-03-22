@@ -32,7 +32,7 @@ author_profile: true
 
 ## Research Line II: Out-of-Distribution Generalization
 
-<!--
+
 
 <div style="display:flex; gap:1.5em; align-items:flex-start; margin-bottom:2.2em;">
 
@@ -55,7 +55,7 @@ author_profile: true
   </div>
 
 </div>
--->
+
 
 
 
