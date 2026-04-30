@@ -70,7 +70,7 @@ Recently, my work explores these trust boundaries from two complementary perspec
     Advisor: Prof. <a href="https://scholar.google.com/citations?hl=en&user=x34kIOIAAAAJ&view_op=list_works&sortby=pubdate">Bruno Abrahao</a>
   </div>
   <div style="text-align:right;">
-    05.2025 – Present
+    05.2025 – 05.2026
   </div>
 </div>
 
