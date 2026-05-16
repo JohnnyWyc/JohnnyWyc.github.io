@@ -55,11 +55,11 @@ Recently, my work explores these trust boundaries from two complementary perspec
 
 
 
+
 ## Competition
 
-- **Kaggle — [[LLM Prompt Recovery]](https://www.kaggle.com/competitions/llm-prompt-recovery)**,  _Golden Award_    🥇
-- **Kaggle — [[Linking Writing Processes to Writing Quality]](https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality)**,  _Silver Award_  🥈
-
+- **Kaggle — [[LLM Prompt Recovery]](https://www.kaggle.com/competitions/llm-prompt-recovery)**,  _Golden Award_    🥇 (Top 0.5%)
+- **Kaggle — [[Linking Writing Processes to Writing Quality]](https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality)**,  _Silver Award_  🥈 (Top 1%)
 
 ## Work Experience
 
