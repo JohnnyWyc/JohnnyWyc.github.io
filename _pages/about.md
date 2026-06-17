@@ -63,6 +63,9 @@ Recently, my work explores these trust boundaries from two complementary perspec
 
 ## Work Experience
 
+
+
+<!--
 <div style="display:flex; justify-content:space-between;">
   <div>
     <strong>New York University</strong><br>
@@ -71,6 +74,16 @@ Recently, my work explores these trust boundaries from two complementary perspec
   </div>
   <div style="text-align:right;">
     05.2025 – 05.2026
+  </div>
+</div>
+-->
+<div style="display:flex; justify-content:space-between;">
+  <div>
+    <strong>New York University</strong><br>
+    <em>Research Associate</em><br>
+      </div>
+  <div style="text-align:right;">
+    05.2025 – Present
   </div>
 </div>
 
